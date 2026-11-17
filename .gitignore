@@ -1,0 +1,19 @@
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+nbody_cpu
+nbody_naive
+nbody_shared
+nbody_optimized
+nbody_optimized_verbose
+verify_accuracy
+
+# Jupyter Checkpoints & caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
